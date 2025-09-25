@@ -1,0 +1,5 @@
+{
+  "name": "steezed",
+  "private": true,
+  "workspaces": ["apps/web", "apps/api", "apps/cms"]
+}
